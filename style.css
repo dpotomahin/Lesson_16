@@ -2,11 +2,14 @@
     margin-bottom: 5px;
 }
 .carousel{
-    height: 650px;
+    max-height: 600px;
     overflow: hidden;
 }
 .footer .col-12{
     margin-bottom: o;
     text-align: center;
     font-size: 30px;
+}
+.col-4 .img img{
+    max-width: 100%;
 }
